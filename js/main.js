@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Pasqual Amadeus Widrinski.", "Freelancer.", "Kameramann.", "Livestream Operator.", "Freigeist."],
+      strings: ["Pasqual Amadeus Widrinski.", "Freelancer.", "Kameramann.", "Livestream Operator."],
       typeSpeed: 100,
       loop: true,
     });
