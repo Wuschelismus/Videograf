@@ -80,7 +80,7 @@ $(document).ready(function() {
   $(function() {
     typed.typed({
       strings: ["Pasqual Amadeus Widrinski.", "Freelancer.", "Kameramann.", "Livestream Operator."],
-      typeSpeed: 100,
+      typeSpeed: 70,
       loop: true,
     });
   });
